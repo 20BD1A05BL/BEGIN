@@ -7,5 +7,6 @@ int main(){
     
 
      cout<<"branching"<<endl;
+     cout<<"forking"<<endl;
     return 0;
 }
